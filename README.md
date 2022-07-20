@@ -1,5 +1,5 @@
 ## Aurorita.sh
-This is just a fun little project to test printing the output of a shell script into a browser using [php popen() function](https://www.php.net/manual/en/function.popen.php). 
+This is just a fun little project to print the output of a shell script into a web browser using [php popen() function](https://www.php.net/manual/en/function.popen.php).
 
 ### View the **result in current deploy at [https://aurorita.bashe.ar](https://aurorita.bashe.ar)**.
 
